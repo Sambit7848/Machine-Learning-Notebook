@@ -59,8 +59,6 @@ Whether you're a beginner or preparing for interviews, this repository is design
 
 This repository is continuously updated with new **Jupyter Notebooks**, **PDF notes**, and **Machine Learning concepts** as I progress through my learning journey.
 
-If you find this repository helpful, consider giving it a ⭐!
-
 ---
 
 ### 👨‍💻 Author
